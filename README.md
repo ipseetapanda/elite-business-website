@@ -1,18 +1,41 @@
-# Elite Business Solutions — Portfolio Demo
+# Elite Business Solutions — Responsive Business Website
 
-A responsive, multi-section concept website built with HTML, CSS and vanilla JavaScript.
+A modern, responsive business website concept designed to showcase professional services through a clean layout, elegant styling and user-friendly navigation.
 
-## Run locally
-1. Extract the ZIP file.
-2. Open the `elite-business-website` folder in VS Code.
-3. Open `index.html` in a browser, or use the VS Code Live Server extension.
+## Project Overview
 
-## Before publishing
-- Replace the fictional business name and all sample copy with your own project content.
-- Replace `hello@example.com` in `index.html` with an email address you control.
-- Test on mobile, tablet and desktop.
-- This is a front-end concept/demo. It does not include a back-end contact form or booking system.
-- Google Fonts are loaded from the web; the site uses fallback fonts if they are unavailable.
+Elite Business Solutions is a self-initiated front-end portfolio project created to demonstrate my skills in building clean, responsive and visually appealing websites.
 
-## Portfolio disclosure
-Describe this honestly as a self-initiated concept project, not paid client work.
+The website is designed to provide a professional online presence for a business, with a focus on usability, accessibility and responsive layouts.
+
+## Key Features
+
+- Modern and professional website design
+- Fully responsive layout for desktop, tablet and mobile
+- Clean navigation and mobile menu
+- Structured sections for business information and services
+- Contact call-to-action
+- Consistent typography, spacing and styling
+- Cross-device layout considerations
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## Live Website
+
+https://ipseetapanda.github.io/elite-business-website/
+
+## Project Type
+
+Personal Portfolio Project / Front-End Concept Demo
+
+## My Contribution
+
+Designed and developed the front-end website, including page structure, responsive styling, navigation and interactive elements using HTML, CSS and JavaScript.
+
+## Note
+
+This is a self-initiated concept project created to demonstrate front-end development skills. Elite Business Solutions is a fictional business name and this project is not presented as paid client work.
